@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SubstitutionCracker.Properties.Resources.resources
+obj\Debug\SubstitutionCracker.csproj.GenerateResource.Cache
+bin\Debug\SubstitutionCracker.exe
+bin\Debug\SubstitutionCracker.pdb
+obj\Debug\SubstitutionCracker.exe
+obj\Debug\SubstitutionCracker.pdb
+obj\Debug\SubstitutionCracker.MainForm.resources
+bin\Release\SubstitutionCracker.exe
+bin\Release\SubstitutionCracker.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SubstitutionCracker.MainForm.resources
+obj\Release\SubstitutionCracker.Properties.Resources.resources
+obj\Release\SubstitutionCracker.csproj.GenerateResource.Cache
+obj\Release\SubstitutionCracker.exe
+obj\Release\SubstitutionCracker.pdb
